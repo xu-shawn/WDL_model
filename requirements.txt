@@ -1,3 +1,4 @@
 scipy
 matplotlib
 requests
+numpy < 2
